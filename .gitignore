@@ -3,3 +3,20 @@
 
 # Ada Library Information
 *.ali
+/.metadata/
+
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+.metadata/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
